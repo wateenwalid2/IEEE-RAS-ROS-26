@@ -1,0 +1,12 @@
+1)ROS(Robot operating system )is an open source framework widely used in robotics research and industry.it provides a collection of libraries and tools to help developers create robot applications.
+
+2)It is designed to work with various robotic platforms making it a flexible and powerful tool for roboticists.It is designed in a modular way, which makes it easy to build complex robotic systems by combining smaller components called nodes, Each node performs a specific task and all nodes communicate with each other using messages through topics or services. 
+This structure makes the system organized, flexible and easy to scale.
+
+3)It also provides hardware abstraction, which means we can write code that is not directly dependent on specific hardware.
+so that the same code can work with different robots or devices without major changes. This makes development and testing much easier.
+
+4)It includes powerful tools such as RViz for visualizing sensor data and robot states and Gazebo for simulating robots and testing algorithms in a virtual environment before applying them to real hardware.
+
+5)It has a very large and active ecosystem and there are many ready-to-use packages for tasks like navigation, perception, manipulation and the community continuously contributes to improving the system.
+
