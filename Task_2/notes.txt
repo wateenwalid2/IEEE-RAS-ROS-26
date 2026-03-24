@@ -1,0 +1,25 @@
+What i understood :-
+In p1:
+How to receive input from the user using the "input()" function.
+The ability to split the input using the "split()" function.
+I can store the split input in lists.
+To be able to deal with the input --> I have to convert it to the datatype I want to deal with.
+Using built-in functions like max() and min() to easily find the largest and smallest numbers.
+In p2:
+How to use the "for loop" in Python especially the "range()" function which allows me to decide the start and end of the numbers I want to use in this problem.
+How to use lists to store what I need.
+The "join()" function, which allows me to join the data stored in the list.
+In p3:
+I learned how to deal with complex numbers by using the "complex()" function to read or deal with them.
+How to use the "cmath" library that provides a number of functions to deal with complex numbers like "phase()" function that calculates the phase angle of these numbers.
+In p4:
+How to use if, elif, and else statements.
+Using the "modulus" operator to decide if the given number is even or not.
+How to check if a number falls within a specific range using logical operators.
+In p5:
+Nothing new except using "(end="")" in the "print()" function to prevent it to start a new line and to print the numbers in the same line without spaces.
+In p6:
+I learned that after using the split() function and storing the result, I can use the reverse() function to reverse the data in the list.
+To be able to print the sentence, I can use the join() function to join the split words.
+
+
