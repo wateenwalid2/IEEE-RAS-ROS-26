@@ -1,0 +1,21 @@
+-What do symbols like -rw-r--r-- mean?
+ these symbols express the permissions assigned to the files, where the first symbol represents whether this file is a directory or file & others are divided into 3 groups each group has its own   permissions
+ 
+-Which file is executable? How do you know?
+"script.sh" is the executable one, it's known by the 'x' symbol in its permissions which represents that the file is executable.
+
+-Which file is only accessible by its owner?
+ "secret.txt" is the only file that is accessible by its owner only.
+ 
+-What is the difference between file1.txt and secret.txt?
+ "file1.txt" differs from "secret.txt" as the group & others can read this file unlike "secret.txt" which is only accessible only by its owner.
+
+-What do the three parts of the permissions represent (owner, group, others)?
+ these 3 parts represent the permissions assigned to each part of them, where the first part represents the permissions of the owner of the file & the second part represents the permissions of the groups which can use this file & the third part represents the permissions of other users which is not the owner or a group.
+ 
+--Learned things from this task
+ 1- what the permissions of the files are & how to change the permissions of files using the command "chmod".
+ 2- the permissions of files are divided into 3 parts and each part has its own permission.
+ 3- learned about the octal notation that is used to represent file permission, where 4--> read(r) & 2--> write(w) & 1--> execute(x). 
+ 
+ 
