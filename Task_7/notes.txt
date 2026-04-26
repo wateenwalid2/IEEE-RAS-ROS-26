@@ -1,0 +1,10 @@
+1-In problem (1):
+we used inheritance as the Dog class has an (is-a) relationship with the Animal class. Since we used inheritance, we can override the methods of the parent class to be able to use them in the child class.
+2-In problem (2):
+we noticed that we can use lists as an attribute in the Classroom class and update its values for every object.
+3-In problem (3):
+we noticed that the Flight & Passenger classes have a (has-a) relationship which is named "composition", which means that one of the two classes can contain objects of another class.
+4-In problem (4):
+we noticed that the Team & Player classes also have the "composition" relationship.
+5-In problem (5):
+There is a core concept here, "polymorphism" (which means the methods have the same name but different behavior), which is used here where the print_area function prints the area by calling the area() method, since the parent class has the area method, and each child class (Circle or Square) implements it in its own way.
