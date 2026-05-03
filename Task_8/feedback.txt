@@ -1,0 +1,9 @@
+It was a good chance to test myself in solving python problems.
+pros:
+-a great environment with my team
+-a good chance to improve my teamwork skill
+cos:
+- time was little for the problems
+
+improvments:
+-ensure that time is suitable for the problems
