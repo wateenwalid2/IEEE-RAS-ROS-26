@@ -1,0 +1,84 @@
+{
+    "drones": [
+        {
+            "id": 1,
+            "battery": 68.7206,
+            "position": [
+                0,
+                0
+            ],
+            "drone_mass": 4.0,
+            "max_capacity": 5.0,
+            "available": true,
+            "delivered_packages": [
+                {
+                    "id": 1,
+                    "mass": 4.0,
+                    "destination": [
+                        5,
+                        7
+                    ]
+                },
+                {
+                    "id": 2,
+                    "mass": 5.0,
+                    "destination": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "id": 6,
+                    "mass": 5.0,
+                    "destination": [
+                        3,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "battery": 100.0,
+            "position": [
+                0,
+                0
+            ],
+            "drone_mass": 7.0,
+            "max_capacity": 10.0,
+            "available": true,
+            "delivered_packages": [
+                {
+                    "id": 3,
+                    "mass": 8.0,
+                    "destination": [
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "id": 4,
+                    "mass": 10.0,
+                    "destination": [
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "id": 5,
+                    "mass": 5.0,
+                    "destination": [
+                        2,
+                        2
+                    ]
+                }
+            ]
+        }
+    ],
+    "no_fly_zones": [
+        [
+            4,
+            6
+        ]
+    ]
+}
