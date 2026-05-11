@@ -1,12 +1,12 @@
 ## successful installation
-![talker](Screenshot from 2026-05-11 15-54-08.png)
-![listener](Screenshot from 2026-05-11 15-54-11.png)
+![talker](Screenshot%20from%202026-05-11%2015-54-08.png)
+![listener](Screenshot%20from%202026-05-11%2015-54-11.png)
 
 ## list nodes, topics, services
-![list](Screenshot from 2026-05-11 15-58-30.png)
+![list](Screenshot%20from%202026-05-11%2015-58-30.png)
 
 ## Manual star commands
-![manual commands](Screenshot from 2026-05-11 16-38-04.png)
+![manual commands](Screenshot%20from%202026-05-11%2016-38-04.png)
 
 ## Notes
 The difference between the main ROS concepts:
