@@ -15,5 +15,5 @@ The difference between the main ROS concepts:
 - **Service**: An interface provided by ROS to allow many nodes to communicate with each other, used for an specific task needed (request & response communication)
 
 ## Explanation video
-![video](https://drive.google.com/file/d/1jtgAaImT0N4_2SeFY3Y_JM6OcibF5UJp/view?usp=sharing)
+[video](https://drive.google.com/file/d/1jtgAaImT0N4_2SeFY3Y_JM6OcibF5UJp/view?usp=sharing)
 
