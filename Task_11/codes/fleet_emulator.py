@@ -13,16 +13,16 @@ class robot_sim_node(Node):
         self.pub_pos = self.create_publisher(Pose2D,f"robot{count}/pos",10)
         self.pub_priority = self.create_publisher(Int32,f"robot{count}/priority",10)
         self.timer = self.create_timer(0.1, self.nowPub)
-        self.get_logger().info(f"Robot{count} here")
+        self.get_logger().info(f"Robot{count} is created")
 
     def nowPub(self):
-        pose_msg = Pose2D()
-        pose_msg.x = float(random.randint(0, 15))
-        pose_msg.y = float(random.randint(0, 15))
-        priority_msg = Int32()
-        priority_msg.data = random.randint(1, 10)
-        self.pub_pos.publish(pose_msg)
-        self.pub_priority.publish(priority_msg)
+        pose = Pose2D()
+        pose.x = float(random.randint(0, 20))
+        pose.y = float(random.randint(0, 20))
+        priority = Int32()
+        priority.data = random.randint(1, 10)
+        self.pub_pos.publish(pose)
+        self.pub_priority.publish(priority)
 
 def main(args=None):
     rclpy.init(args=args)
