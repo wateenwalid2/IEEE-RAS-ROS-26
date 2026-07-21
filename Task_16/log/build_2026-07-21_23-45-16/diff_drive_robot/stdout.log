@@ -1,0 +1,63 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (1.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot
+-- Install configuration: ""
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch/robot.launch.py
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch/rsp.launch.py
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.gazebo
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.urdf
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/inertial_macros.xacro
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/config
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/config/gz_bridge.yaml
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/obstacles.world
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/empty.world
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/world.sdf
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/rviz
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/rviz/bot.rviz
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch/robot.launch.py
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch/rsp.launch.py
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.gazebo
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.urdf
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/inertial_macros.xacro
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/config
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/config/gz_bridge.yaml
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/obstacles.world
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/empty.world
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/world.sdf
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/rviz
+-- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/rviz/bot.rviz
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/ament_index/resource_index/package_run_dependencies/diff_drive_robot
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/ament_index/resource_index/parent_prefix_path/diff_drive_robot
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/environment/ament_prefix_path.sh
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/environment/ament_prefix_path.dsv
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/environment/path.sh
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/environment/path.dsv
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/local_setup.bash
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/local_setup.sh
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/local_setup.zsh
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/local_setup.dsv
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/package.dsv
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/ament_index/resource_index/packages/diff_drive_robot
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/cmake/diff_drive_robotConfig.cmake
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/cmake/diff_drive_robotConfig-version.cmake
+-- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/package.xml

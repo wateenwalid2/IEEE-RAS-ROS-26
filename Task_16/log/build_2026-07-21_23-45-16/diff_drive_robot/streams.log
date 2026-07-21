@@ -1,0 +1,69 @@
+[0.013s] Invoking command in '/home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/src/task16_starter_robot-main -DCMAKE_INSTALL_PREFIX=/home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot
+[0.145s] -- The C compiler identification is GNU 13.3.0
+[0.349s] -- The CXX compiler identification is GNU 13.3.0
+[0.395s] -- Detecting C compiler ABI info
+[0.657s] -- Detecting C compiler ABI info - done
+[0.691s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.701s] -- Detecting C compile features
+[0.702s] -- Detecting C compile features - done
+[0.731s] -- Detecting CXX compiler ABI info
+[0.901s] -- Detecting CXX compiler ABI info - done
+[0.916s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.916s] -- Detecting CXX compile features
+[0.917s] -- Detecting CXX compile features - done
+[0.926s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.150s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.487s] -- Configuring done (1.5s)
+[1.493s] -- Generating done (0.0s)
+[1.497s] -- Build files have been written to: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot
+[1.505s] Invoked command in '/home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/src/task16_starter_robot-main -DCMAKE_INSTALL_PREFIX=/home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot
+[1.507s] Invoking command in '/home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot -- -j16 -l16
+[1.556s] Invoked command in '/home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot -- -j16 -l16
+[1.569s] Invoking command in '/home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot
+[1.579s] -- Install configuration: ""
+[1.579s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch
+[1.580s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch/robot.launch.py
+[1.580s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch/rsp.launch.py
+[1.580s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf
+[1.580s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.gazebo
+[1.580s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.urdf
+[1.580s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/inertial_macros.xacro
+[1.580s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/config
+[1.581s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/config/gz_bridge.yaml
+[1.581s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds
+[1.581s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/obstacles.world
+[1.581s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/empty.world
+[1.581s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/world.sdf
+[1.581s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/rviz
+[1.581s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/rviz/bot.rviz
+[1.581s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch
+[1.582s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch/robot.launch.py
+[1.582s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/launch/rsp.launch.py
+[1.582s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf
+[1.582s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.gazebo
+[1.582s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/robot.urdf
+[1.582s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/urdf/inertial_macros.xacro
+[1.582s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/config
+[1.582s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/config/gz_bridge.yaml
+[1.583s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds
+[1.583s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/obstacles.world
+[1.583s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/empty.world
+[1.583s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/worlds/world.sdf
+[1.583s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/rviz
+[1.583s] -- Up-to-date: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/rviz/bot.rviz
+[1.583s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/ament_index/resource_index/package_run_dependencies/diff_drive_robot
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/ament_index/resource_index/parent_prefix_path/diff_drive_robot
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/environment/ament_prefix_path.sh
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/environment/ament_prefix_path.dsv
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/environment/path.sh
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/environment/path.dsv
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/local_setup.bash
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/local_setup.sh
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/local_setup.zsh
+[1.584s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/local_setup.dsv
+[1.585s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/package.dsv
+[1.585s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/ament_index/resource_index/packages/diff_drive_robot
+[1.585s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/cmake/diff_drive_robotConfig.cmake
+[1.585s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/cmake/diff_drive_robotConfig-version.cmake
+[1.585s] -- Installing: /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/install/diff_drive_robot/share/diff_drive_robot/package.xml
+[1.586s] Invoked command in '/home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/wateen/Desktop/IEEE-RAS-ROS-26/Task_16/build/diff_drive_robot
